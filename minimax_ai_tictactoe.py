@@ -21,7 +21,8 @@ def main():
             turn = "computer"
         else:
             print("Computer is thinking...")
-            computer_random_move()
+            # computer_random_move() -> a dumb computer
+            smart_move() # a smart computer
             turn = "human"
             
         # Check for winner
