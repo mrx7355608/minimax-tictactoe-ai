@@ -11,7 +11,7 @@ git clone https://github.com/mrx7355608/minimax-tictactoe-ai
 ```
 
 - Open the one and only python file
-- Run the file
+- Run it
 - That's pretty much it xd
 
 ### TODO
